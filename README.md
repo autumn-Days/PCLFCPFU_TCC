@@ -1,6 +1,6 @@
 # Requisitos
 
--  Python 3.l0 ou superior
+-  Python 3.10 ou superior
 -  Numpy 2.4.1 ou superior
 
 # Execução
